@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:14.04
 MAINTAINER Doug Goldstein <cardoe@cardoe.com>
 
 ENV DEBIAN_FRONTEND=noninteractive
